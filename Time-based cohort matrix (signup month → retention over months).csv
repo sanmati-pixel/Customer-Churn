@@ -1,0 +1,5 @@
+Row Labels,Count of customerID,Average of Churn_Flag
+Month-to-month,3875,0.426580645
+One year,1473,0.11269518
+Two year,1695,0.028318584
+Grand Total,7043,0.265085901
